@@ -1,17 +1,6 @@
+# BlueCoders Infotech
 
-<table>
-  <tr>
-    <td align="center" width="150">
-      <img src="https://github.com/user-attachments/assets/12a43f28-a7f2-44cc-a62c-322639fe5478" width="100" alt="BlueCoders Logo">
-    </td>
-    <td>
-      <h1>BlueCoders Infotech</h1>
-      <p><em>High-Performance Mobile Applications & Scalable Web Experiences Designed for Growth.</em></p>
-    </td>
-  </tr>
-</table>
-
----
+> High-Performance Mobile Applications & Scalable Web Experiences Designed for Growth.
 
 BlueCoders Infotech is a premium software engineering and design studio specializing in building fast, scalable, and high-performance digital products. We partner with founders, startups, and growing enterprises to turn ambitious ideas into robust, production-grade applications. Based in Surat, India, we build for a global digital audience.
 
